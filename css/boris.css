@@ -119,10 +119,10 @@ header #logotipo {
     height: 728px;
     position: relative;
     background: url(../img/banner2.jpg) no-repeat;
-    background-position: 100px -100px;
+    background-position: 100px 0px;
     background-color: black;
 	top: -136px;
-	margin-bottom: -115px;
+	margin-bottom: -136px;
 }
 #banner h1 {
     transition: 1s;
@@ -144,7 +144,7 @@ header #logotipo {
 #mp3 {
 	position: relative;
 	left: 518px;
-    top: -165px;
+    top: -98px;
 }
 footer{
 	margin-top: -80px;
