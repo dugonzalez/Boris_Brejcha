@@ -151,7 +151,8 @@ body{
 }
 footer{
 	margin-top: -80px;
-	margin-right: -15px;
+	margin-left: 0px;
+}
 }
 footer .row{
 	width: 100%;
