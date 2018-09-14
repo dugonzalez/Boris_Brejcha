@@ -140,19 +140,26 @@ header #logotipo {
     font-family: 'OpenSans';
     font-weight: bold;
 }
-body{
-	background-image: url('../img/banner1.png');
-	background-size: 25%;
-}
+
 #mp3 {
 	position: relative;
 	left: 518px;
     top: -98px;
 }
+video {
+    width: 60%;
+    margin-top: 60px;
+    margin-bottom: 134px;
+	margin-left: 270px;
+}
+body{
+	background-image: url('../img/banner1.png');
+	background-size: 25%;
+	width: 1350px;
+}
 footer{
 	margin-top: -80px;
-	margin-left: 0px;
-}
+	margin-right: -15px;
 }
 footer .row{
 	width: 100%;
@@ -266,19 +273,3 @@ footer .list-socials i{
 	font-size: 16px;
 	margin: 5px auto;
 }
-#mp3 {
-	position: relative;
-	left: 518px;
-    top: -98px;
-}
-video {
-    width: 50%;
-    margin-top: 60px;
-    margin-bottom: 134px;
-	margin-left: 270px;
-}
-.owl-carousel {
-    display: none;
-    width: 100%;
-    z-index: 1;
-    top: 60px;
