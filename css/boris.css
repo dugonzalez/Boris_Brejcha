@@ -140,7 +140,10 @@ header #logotipo {
     font-family: 'OpenSans';
     font-weight: bold;
 }
-
+body{
+	background-image: url('../img/banner1.png');
+	background-size: 25%;
+}
 #mp3 {
 	position: relative;
 	left: 518px;
